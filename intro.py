@@ -1,2 +1,2 @@
-a = input("Your name?")
+a = 10
 print(a)

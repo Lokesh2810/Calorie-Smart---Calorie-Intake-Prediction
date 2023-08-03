@@ -24,6 +24,9 @@
 #### 3. Support Vector Machine
 #### 4. Decision trees
 #### 5. Neural Networks 
-#### Further I performed Hyperparameter Tuning on best of these models based on Mean absolute score and Mean squared score and saved the model in pickle file
+#### Further I performed Hyperparameter Tuning on best of these models based on Mean absolute score and Mean squared score and saved the model in pickle [file](Final_Model.pkl)
 ## Command Line Application:-
-#### In 
+#### In [calorie_intake_prediction.py](calorie_intake_prediction.py) You can find the implementation of the model for real time
+## dependencies
+#### This [File](dependencies.ipynb) contains all the liberaries used in this project 
+
